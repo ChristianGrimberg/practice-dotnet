@@ -1,0 +1,34 @@
+{
+    // Environment style
+    "workbench.colorTheme": "Panda Syntax",
+    "editor.renderWhitespace": "boundary",
+    "markdown.styles": [
+        ".devcontainer/markdown-styles.css"
+    ],
+    // Git behaviour
+    "git.autofetch": true,
+    "git.autofetchPeriod": 60,
+    "git.confirmSync": false,
+    "git.enableCommitSigning": true,
+    // Terminal behaviour
+    "terminal.integrated.defaultProfile.windows": "/bin/bash (migrated)",
+    "powershell.scriptAnalysis.settingsPath": "./PSScriptAnalyzerSettings.psd1",
+    "powershell.scriptAnalysis.enable": true,
+    // PowerShell behaviour
+    "powershell.codeFormatting.preset": "OTBS",
+    "powershell.codeFormatting.whitespaceBeforeOpenBrace": true,
+    "powershell.codeFormatting.whitespaceBeforeOpenParen": true,
+    "powershell.codeFormatting.whitespaceAroundOperator": true,
+    "powershell.codeFormatting.whitespaceAfterSeparator": true,
+    // Extensions settings
+    "omnisharp.enableEditorConfigSupport": true,
+    "markdown-pdf.styles": [
+        ".vscode/extensions/markdown-pdf-styles.css"
+    ],
+    "markdown-pdf.outputDirectory": "~/Desktop",
+    "markdown-pdf.margin.top": "1.15cm",
+    "markdown-pdf.margin.left": "0.75cm",
+    "markdown-pdf.margin.right": "0.75cm",
+    "markdown-pdf.margin.bottom": "2.5cm",
+    "markdown-pdf.displayHeaderFooter": true
+}
