@@ -1,0 +1,1 @@
+# Practice with .NET 6
