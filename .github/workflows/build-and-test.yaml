@@ -6,6 +6,7 @@ name: Build & Test .NET Application
 # Trigger this workflow on a push, or pull request to
 # the main branch, when either C# or project files changed
 on:
+  workflow_dispatch:
   push:
     paths-ignore:
     - 'README.md'
