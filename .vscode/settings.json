@@ -21,14 +21,5 @@
     "powershell.codeFormatting.whitespaceAroundOperator": true,
     "powershell.codeFormatting.whitespaceAfterSeparator": true,
     // Extensions settings
-    "omnisharp.enableEditorConfigSupport": true,
-    "markdown-pdf.styles": [
-        ".vscode/extensions/markdown-pdf-styles.css"
-    ],
-    "markdown-pdf.outputDirectory": "~/Desktop",
-    "markdown-pdf.margin.top": "1.15cm",
-    "markdown-pdf.margin.left": "0.75cm",
-    "markdown-pdf.margin.right": "0.75cm",
-    "markdown-pdf.margin.bottom": "2.5cm",
-    "markdown-pdf.displayHeaderFooter": true
+    "omnisharp.enableEditorConfigSupport": true
 }
