@@ -110,8 +110,8 @@ UpgradeLog*.XML
 UpgradeLog*.htm
 
 # SQL Server files
-App_Data/*.mdf
-App_Data/*.ldf
+*.mdf
+*.ldf
 
 # =========================
 # Windows detritus
@@ -131,3 +131,8 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+# Compresed files
+*.zip
+*.7z
+*.gz
