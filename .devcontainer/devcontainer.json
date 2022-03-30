@@ -22,7 +22,7 @@
 	"extensions": [
 		"ms-dotnettools.csharp",
 		"ms-vscode.csharp",
-		"tinytoy.msbuild-project-tools",
+		"tintoy.msbuild-project-tools",
 		"k--kato.docomment",
 		"humao.rest-client",
 		"icsharpcode.ilspy-vscode",
