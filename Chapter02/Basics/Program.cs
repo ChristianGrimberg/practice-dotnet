@@ -14,6 +14,8 @@ namespace Basics
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!"); // a statement
+            Console.WriteLine("");
+            Console.WriteLine("Temperature on {0:D} is {1} Celsius", DateTime.Now, 15);
         }
     }
 } // a close brace indicates the end of a block
