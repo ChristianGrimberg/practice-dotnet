@@ -3,7 +3,7 @@
     "workbench.colorTheme": "Panda Syntax",
     "editor.renderWhitespace": "boundary",
     "markdown.styles": [
-        ".devcontainer/markdown-styles.css"
+        ".vscode/extensions/markdown-styles.css"
     ],
     // Git behaviour
     "git.autofetch": true,
