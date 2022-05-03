@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FirstApp
+namespace HelloCS
 {
     internal class Program
     {
